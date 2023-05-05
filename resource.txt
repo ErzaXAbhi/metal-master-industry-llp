@@ -1,0 +1,6 @@
+Tailwind CSS CDN - <script src="https://cdn.tailwindcss.com"></script>
+
+Tailblocks - https://tailblocks.cc/
+
+Flowbite components - https://flowbite.com/#components
+
