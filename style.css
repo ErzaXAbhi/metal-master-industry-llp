@@ -24,7 +24,7 @@ h1 {
 
 .phone-icon {
     position: fixed;
-    bottom: 20px;
+    bottom: 80px;
     left: 20px;
     width: 50px;
     height: 50px;
@@ -49,7 +49,7 @@ h1 {
 
   .message-icon {
     position: fixed;
-    bottom: 20px;
+    bottom: 80px;
     left: 80px;
     width: 50px;
     height: 50px;
